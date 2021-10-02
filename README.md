@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VarunRagul
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Web Dvelopment 
+- 👀 I’m interested in Backend Programming using Python
+- 🌱 I’m currently learning Web Development 
 
 
 <!---
