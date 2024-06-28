@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VarunRagul
+- 👋 Hi, I’m @Varunragul
 - 👀 I’m interested in Backend Programming using Python, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Web Development 
 
